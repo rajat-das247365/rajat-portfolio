@@ -1,2 +1,2 @@
 ## live link
-rajat-das247365.github.io
+https://rajat-das247365.github.io/rajat-portfolio
